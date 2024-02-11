@@ -9,8 +9,8 @@
 <h3>Connect With Me </h3>
 <p align="left">
 <a href="https://twitter.com/rishabhd626312" target="blank"><img align="center" src="https://raw.githubusercontent.com/codemaker2015/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishabhd626312" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rishabh-dwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/codemaker2015/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabh-dwivedi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rishu6263" target="blank"><img align="center" src="https://raw.githubusercontent.com/codemaker2015/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishu6263" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rk-dwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/codemaker2015/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabh-dwivedi" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rishu6159" target="blank"><img align="center" src="https://raw.githubusercontent.com/codemaker2015/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishu6263" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishu6263&show_icons=true&locale=en&layout=compact" alt="rishu6263" /></p>
